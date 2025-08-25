@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "name": "Matheus Henrique Gama Osorio",
+        "setor": "Tecnologia da Informação",
+        "title": "Estagiário - TI",
+        "telefoneSetor": "(92) 99455-7800",
+        "telefonePessoal": "(92) 98406-8535",
+        "email": "henrique.busn@gmail.com"
+    },
+
+    {
+        "id":2,
+        "name": "Eduardo Campos",
+        "setor": "Recursos Humanos",
+        "title": "Estagiário de RH",
+        "telefoneSetor": "(92) 99455-7801",
+        "telefonePessoal": "(92) 98406-8536",
+        "email": "eduardo.camposs@gmail.com.br"
+    }
+]
